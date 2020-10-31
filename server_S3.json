@@ -1,32 +1,39 @@
 {
-    "myBudget": [
-      {
-        "title": "Eat out",
-        "budget": 25
-      },
-      {
-        "title": "Rent",
-        "budget": 375
-      },
-      {
-        "title": "Grocery",
-        "budget": 110
-      },
-      {
-        "title": "Gas",
-        "budget": 50
-      },
-      {
-        "title": "Car Insurance",
-        "budget": 108
-      },
-      {
-        "title": "Car Payment",
-        "budget": 350
-      },
-      {
-        "title": "WiFi",
-        "budget": 50
-      }
-    ]
-  }
+  "myBudget": [
+    {
+      "title": "Eat out",
+      "budget": 25,
+      "color": "#ffcd56"
+    },
+    {
+      "title": "Rent",
+      "budget": 375,
+      "color": "#ff6384"
+    },
+    {
+      "title": "Grocery",
+      "budget": 110,
+      "color": "#36a2eb"
+    },
+    {
+      "title": "Gas",
+      "budget": 50,
+      "color": "#fd6b19"
+    },
+    {
+      "title": "Car Insurance",
+      "budget": 108,
+      "color": "#83FF33"
+    },
+    {
+      "title": "Car Payment",
+      "budget": 350,
+      "color": "#3342FF"
+    },
+    {
+      "title": "WiFi",
+      "budget": 50,
+      "color": "#B233FF"
+    }
+  ]
+}
